@@ -1,8 +1,6 @@
 # Laravel 5.3 Shopping Cart
 This is a simple Laravel 5.3 application, a shopping cart itegrated with Stripe payment transaction.
 
-### [Demo](http://tung.byethost6.com/laravel_shop/public)
-
 ### Screenshots
 ![s1](https://c8.staticflickr.com/6/5619/30621531023_b8eb8076b3_z.jpg)
 
