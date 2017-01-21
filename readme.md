@@ -1,4 +1,4 @@
-# nodejs_shoppingcart
+# Laravel 5.3 Shopping Cart
 This is a simple Laravel 5.3 application, a shopping cart itegrated with Stripe payment transaction.
 
 ### Screenshots
